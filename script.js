@@ -1,5 +1,5 @@
 const imgGallery = document.querySelector(".img-gallery");
-const API_KEY = KEY
+const API_KEY = API_KEY
 let processing = false;
 
 const updateImage = (data) => {
